@@ -1,1 +1,4 @@
 node_modules/
+startingFileName*z*
+.env.*
+artifacts/
